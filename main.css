@@ -1,0 +1,11 @@
+.btn:hover{
+    color: white;
+    background: orange;
+    box-shadow: black 2px 2px 5px 0px;
+}
+
+.card:hover{
+    height: 600px;
+    width: 360px;
+    transition: 2s;
+}
